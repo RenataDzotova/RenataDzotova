@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Renata</h1>
-<h3 align="center">A UX/UI designer and Front-end developer</h3>
+<h3 align="center">Aspiring UX/UI designer and Front-end developer</h3>
 
 - 🌱 I’m currently learning **Three.js**
 
